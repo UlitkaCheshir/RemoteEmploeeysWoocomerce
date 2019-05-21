@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#68BCBC;}
+	.st1{fill:#E52E2E;stroke:#512319;stroke-width:0.75;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#F4E308;stroke:#512319;stroke-width:0.75;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#C62222;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#BC3B3B;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#EBF752;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#F48E31;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Слой_1">
+</g>
+<g id="Слой_2">
+	<circle class="st0" cx="25" cy="25" r="22.5"/>
+	<polygon class="st1" points="15,9.5 15,42.5 25.59,33.5 35,42.5 35,9.5 	"/>
+	<circle class="st2" cx="25" cy="20" r="6.5"/>
+	<line class="st3" x1="16.5" y1="12.5" x2="16.5" y2="28.5"/>
+	<line class="st3" x1="32.5" y1="15.5" x2="32.5" y2="36.68"/>
+	<line class="st4" x1="17.5" y1="13.5" x2="17.5" y2="29.5"/>
+	<line class="st4" x1="33.5" y1="16.82" x2="33.5" y2="38"/>
+	<circle class="st5" cx="43.5" cy="4.5" r="2"/>
+	<circle class="st0" cx="46" cy="8" r="1"/>
+	<circle class="st0" cx="7.5" cy="46.5" r="1.5"/>
+	<circle class="st0" cx="3.5" cy="7.5" r="1.5"/>
+	<circle class="st5" cx="40.5" cy="4.5" r="0.5"/>
+	<circle class="st5" cx="44.5" cy="42.5" r="1.5"/>
+	<circle class="st5" cx="5.5" cy="32.5" r="2.5"/>
+	<circle class="st6" cx="7.5" cy="26.5" r="1.5"/>
+	<circle class="st5" cx="9" cy="36" r="1"/>
+	<polygon class="st7" points="25.1,16 26.31,18.45 29,18.84 27.05,20.74 27.51,23.42 25.1,22.16 22.69,23.42 23.15,20.74 
+		21.2,18.84 23.89,18.45 	"/>
+</g>
+</svg>

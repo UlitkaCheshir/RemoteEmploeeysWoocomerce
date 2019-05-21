@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FCE0A2;}
+	.st1{fill:#86CBDB;stroke:#4C2F29;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{fill:#E2BF2D;stroke:#4C2F29;stroke-width:0.75;stroke-miterlimit:10;}
+	.st3{fill:#BC5B90;stroke:#4C2F29;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:#020202;stroke:#4C2F29;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#E0E0E0;stroke:#4C2F29;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#6AACB7;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#F1BC19;}
+	.st8{fill:#CE2828;}
+	.st9{fill:#FFFFFF;}
+</style>
+<g id="Слой_2">
+</g>
+<g id="Слой_1">
+	<g>
+		<circle class="st0" cx="25" cy="25" r="25"/>
+	</g>
+	<rect x="23.07" y="18.97" class="st1" width="14.64" height="21.53"/>
+	<path class="st2" d="M22.64,17.68h14.64c0.47,0,0.86,0.39,0.86,0.86v0c0,0.47-0.39,0.86-0.86,0.86H22.64
+		c-0.47,0-0.86-0.39-0.86-0.86v0C21.78,18.07,22.17,17.68,22.64,17.68z"/>
+	<rect x="11.01" y="10.36" class="st1" width="12.06" height="30.14"/>
+	<path class="st2" d="M10.58,9.07H23.5c0.47,0,0.86,0.39,0.86,0.86v0c0,0.47-0.39,0.86-0.86,0.86H10.58c-0.47,0-0.86-0.39-0.86-0.86
+		v0C9.72,9.46,10.11,9.07,10.58,9.07z"/>
+	<rect x="11.36" y="35.76" class="st3" width="11.37" height="4.31"/>
+	<rect x="8" y="40.07" class="st4" width="31" height="0.86"/>
+	<path class="st2" d="M19.19,39.85h-4.31v-4.31c0-1.18,0.97-2.15,2.15-2.15h0c1.18,0,2.15,0.97,2.15,2.15V39.85z"/>
+	<rect x="13.17" y="26.29" class="st5" width="2.58" height="2.58"/>
+	<rect x="18.33" y="26.29" class="st5" width="2.58" height="2.58"/>
+	<rect x="13.17" y="21.13" class="st5" width="2.58" height="2.58"/>
+	<rect x="18.33" y="21.13" class="st5" width="2.58" height="2.58"/>
+	<rect x="13.17" y="15.96" class="st5" width="2.58" height="2.58"/>
+	<rect x="18.33" y="15.96" class="st5" width="2.58" height="2.58"/>
+	<rect x="33.83" y="22.85" class="st5" width="2.58" height="2.58"/>
+	<rect x="29.53" y="22.85" class="st5" width="2.58" height="2.58"/>
+	<rect x="25.22" y="22.85" class="st5" width="2.58" height="2.58"/>
+	<rect x="25.22" y="28.01" class="st5" width="2.58" height="2.58"/>
+	<rect x="29.53" y="28.01" class="st5" width="2.58" height="2.58"/>
+	<rect x="33.83" y="28.01" class="st5" width="2.58" height="2.58"/>
+	<rect x="33.83" y="33.18" class="st5" width="2.58" height="2.58"/>
+	<rect x="29.53" y="33.18" class="st5" width="2.58" height="2.58"/>
+	<rect x="25.22" y="33.18" class="st5" width="2.58" height="2.58"/>
+	<line class="st6" x1="23.76" y1="20.26" x2="23.76" y2="39.21"/>
+	<line class="st6" x1="34.26" y1="20.26" x2="23.93" y2="20.26"/>
+	<circle class="st7" cx="47" cy="45" r="1.5"/>
+	<circle class="st8" cx="48.5" cy="9.5" r="1.5"/>
+	<circle class="st8" cx="5.5" cy="48.5" r="1.5"/>
+	<circle class="st8" cx="2.5" cy="9.5" r="1.5"/>
+	<circle class="st7" cx="46" cy="4" r="3"/>
+	<circle class="st7" cx="3.5" cy="33.5" r="2.5"/>
+	<circle class="st9" cx="4.5" cy="27.5" r="1.5"/>
+	<circle class="st7" cx="42" cy="3" r="1"/>
+	<circle class="st7" cx="6" cy="37" r="1"/>
+</g>
+</svg>

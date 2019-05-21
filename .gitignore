@@ -1,0 +1,13 @@
+/.idea
+/app/node_modules
+/admin/wp-admin
+/admin/wp-includes
+/admin/wp-content/uploads
+/admin/wp-content/themes/twe*
+/admin/*/node_modules
+/admin/*.php
+/admin/*.html
+/admin/*.txt
+/admin/.htaccess
+/Remoteemploeeys/wp-content
+/Harkov_Bulgaria/wp-content/uploads
