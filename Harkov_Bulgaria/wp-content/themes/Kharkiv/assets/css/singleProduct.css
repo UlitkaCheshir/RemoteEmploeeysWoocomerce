@@ -1,0 +1,375 @@
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+.gallery {
+	margin-bottom: 1.5em;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-caption {
+	display: block;
+}
+.top-panel{
+	width: 100%;
+	background-color: #21759b;
+	/* position: fixed; */
+}
+.top-panel2 {
+	width: 100%;
+	background-color: #E3F2FD;
+}
+.site-content {
+	padding-top: 30px;
+}
+.site-main {
+	max-width: 1040px;
+	margin: 0 auto;
+	padding-top: 30px;
+	display: grid;
+	grid-template-areas: "card card card";
+	/* grid-template-rows: repeat(5, 1fr) */
+}
+.page-header {
+	grid-area: pheader;
+}
+.search-main {
+	max-width: 1040px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-areas: "pheader pheader pheader" "card card card";
+	grid-auto-columns: 33.3%;
+	/* grid-template-rows: 100px repeat(5, 1fr); */
+}
+.post-img {
+	display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
+.post-title {
+	display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.post-prof {
+	display: flex;
+    flex-direction: column;
+	align-self: center;
+	color: #21759b
+}
+.post-tags {
+	display: flex;
+    /* flex-direction: column; */
+	align-self: center;
+	color: #b12783;
+	max-width: 220px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.post-tags a {
+	text-decoration: none;
+	padding: 0 5px 0 5px;
+	color: red;
+	background-color: antiquewhite;
+	margin: 0 5px 5px 0;
+}
+.card {
+	/* display: flex;
+	flex-direction: column;
+	align-self: center;
+	justify-self: center; */
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	padding-bottom: 30px;
+	grid-gap: 5px;
+}
+
+.resume {
+	display: grid;
+	grid-gap: 30px;
+	margin: 0 auto;
+	max-width: 1040px;
+	grid-template-areas: "resume education education" "portfolio portfolio portfolio";
+	grid-auto-columns: 33%;
+}
+.card-resume{
+	grid-area: resume;
+	max-width: 280px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 30px;
+}
+.card-resume div {
+	padding: 5px 0 5px 0;
+}
+.resume-img{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.resume-name{
+	font-size: 16px;
+	font-weight: 700;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+}
+.resume-profession{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+}
+.resume-education {
+	grid-area: education;
+	margin: 0;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.resumee-experience {
+	grid-area: experience;
+}
+
+.edication-title {
+	padding: 0 0 0 10px;
+	background-color: #e6e6e6;
+	margin: 0 0 20px 0;
+}
+.resume-education ul {
+	padding: 0 0 0 20px;
+	margin: 0 0 20px 0;
+	list-style: none;
+}
+.experience-title {
+	padding: 0 0 0 10px;
+	background-color: #e6e6e6;
+	margin: 0 0 20px 0;
+}
+.resumee-experience ul {
+	padding: 0 0 0 20px;
+	margin: 0 0 20px 0;
+	list-style: none;
+}
+
+.resume-portfolio {
+	grid-area: portfolio;
+	display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.resume-portfolio img {
+	padding: 0 5px;
+}
+
+.breadcrumbs {
+	margin: 0 auto;
+	max-width: 1040px;
+	padding: 10px 0 10px 0;
+}
+.breadcrumbs__link {
+	color: #404040 !important;
+}
+
+.site-header {
+	margin: 0 auto;
+	max-width: 1040px;
+	display: grid;
+	grid-template-areas: "brand menu"
+}
+
+.site-branding {
+	grid-area: brand;
+	padding: 15px 0 15px 0;
+	display: flex;
+}
+.main-navigation {
+	grid-area: menu;
+}
+.site-title {
+	margin: 0;
+}
+.site-title a {
+	color: #fff;
+	font-weight: 700;
+}
+
+.action-buttons {
+	display: flex;
+	justify-content: center;
+	
+}
+.hire {
+	background-color: #FF7043 !important;
+}
+.action-buttons a {
+	width: 100px;
+	height: 35px;
+	background-color: #42A5F5;
+	margin: 0 5px;
+	display: flex;
+	/* flex-direction: column; */
+	justify-content: space-evenly;
+	/* justify-content: center; */
+	align-items: center;
+	color: #F5F5F5;
+}
+.action-buttons a:hover {
+	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
+		box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
+		transition: -webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
+    -o-transition: box-shadow .28s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .28s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .28s cubic-bezier(.4,0,.2,1),-webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
+}
+
+
+
+/* Tabs */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+p:not(:last-child) {
+  margin: 0 0 20px;
+}
+
+
+section {
+  display: none;
+  padding: 20px 0 0;
+  border-top: 1px solid #abc;
+	line-height: 1.5;
+}
+
+input {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #abc;
+  border: 1px solid transparent;
+}
+
+label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+}
+
+label[for*='1']:before {
+  /* content: '\f1cb'; */
+}
+
+label[for*='2']:before {
+  /* content: '\f17d'; */
+}
+
+label[for*='3']:before {
+  /* content: '\f16c'; */
+}
+
+label[for*='4']:before {
+  /* content: '\f171'; */
+}
+
+label:hover {
+  color: #789;
+  cursor: pointer;
+}
+
+input:checked + label {
+  color: #0af;
+  border: 1px solid #abc;
+  border-top: 2px solid #0af;
+  border-bottom: 1px solid #fff;
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4 {
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  label {
+    font-size: 0;
+  }
+
+  label:before {
+    margin: 0;
+    font-size: 18px;
+	}
+	.resume {
+		grid-template-areas: "resume resume resume" "education education education" "portfolio portfolio portfolio"
+	}
+}
+@media screen and (max-width: 480px) {
+  label {
+    padding: 15px;
+  }
+}
+
+.header-wrapper__categories{
+	width: 100%;
+	position: absolute;
+	top: 15px;
+	left: 0;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+

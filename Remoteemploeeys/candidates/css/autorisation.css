@@ -1,0 +1,45 @@
+.autorisation{
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 2px solid #408BB3;
+  border-radius: 20px;
+  background-color: #A2D9E8;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+.autorisation-block{
+  margin: 0 auto 20px;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+}
+.autorisation-title{
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #408BB3;
+}
+.autorisation-input{
+  padding: 5px 10px;
+  border: 1px solid #408BB3;
+  border-radius: 20px;
+}
+.autorisation-btn{
+  margin: 0 auto;
+  padding: 5px;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #408BB3;
+  width: 200px;
+}
+.autorisation-btn:hover{
+  color: #408BB3;
+  background-color: #fff;
+}

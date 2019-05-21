@@ -1,0 +1,161 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block; }
+
+body {
+    line-height: 1; }
+
+ol, ul {
+    list-style: none; }
+
+blockquote, q {
+    quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none; }
+
+table {
+    border-collapse: collapse;
+
+    border-spacing: 0; }
+
+.table {
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.2; }
+.table td {
+    padding: 5px;
+    border: 1px solid #000;
+    vertical-align: middle;}
+.table td textarea {
+    resize: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0; }
+.table tr {
+    border: 1px solid #000; }
+
+.photo {
+    width: 100px; }
+
+.comment {
+    width: 200px;
+    position: relative;
+    overflow: hidden; }
+
+.bold {
+    font-weight: 700; }
+
+.word-break {
+    word-break: break-word;}
+
+.white {
+    background-color: #fff; }
+
+.light-green {
+    background-color: #54bf4a; }
+
+.dark-green {
+    background-color: #096d00; }
+
+.red {
+    background-color: #d40002; }
+
+.moreText{
+    align-content: center;
+    width: 100px;
+    max-width: 150px;
+    position: relative;
+}
+.ShowMoreText{
+    display: block;
+    z-index: 10;
+    width: 600px;
+    right: -100px;
+    top: 0;
+    background: #ccc;
+    box-shadow: 0 1px 3px rgba(0,0,0,.4);
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+}
+.showText{
+    display: none;
+    position: absolute;
+    z-index: 10;
+}
+
+.short{
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    text-overflow: ellipsis; /* Добавляем многоточие */
+    white-space: nowrap;
+    padding: 5px; /* Поля вокруг текста */
+}
+
+#exit{
+    display: block;
+    text-align: right;
+    cursor: pointer;
+    padding-bottom: 5px;
+}
+
+.email{
+    width: 200px;
+    word-break: break-word;
+}
+
+
+div.button24 {
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: .5em 2em;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: #FDBE33 #000 #D77206;
+    border-radius: 6px;
+    background: linear-gradient(#F3AE0F, #E38916) #E38916;
+    transition: 0.2s;
+    width: 60px;
+    margin: 20px 20px 20px 0;
+    cursor: pointer;
+}
+div.button24:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+div.button24:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+
+.button24.top{
+    width: 150px;
+
+}
+.flex-button{
+    display: flex;
+    justify-content: center;
+}
+.blue{
+    background-color: #2e9fff;
+}
+
+.top-link{
+    text-decoration: none;
+    color: white;
+}
+
+.inDB{
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}

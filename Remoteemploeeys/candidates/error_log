@@ -1,0 +1,348 @@
+[15-Apr-2019 13:14:25 UTC] PHP Notice:  Trying to get property of non-object in /home/rhscom/of-w.com/candidates/index.php on line 39
+[16-Apr-2019 09:24:20 UTC] PHP Notice:  Undefined index: language_skills in /home/rhscom/of-w.com/candidates/index.php on line 58
+[16-Apr-2019 09:24:20 UTC] PHP Notice:  Undefined index: language_skills in /home/rhscom/of-w.com/candidates/index.php on line 58
+[16-Apr-2019 09:24:20 UTC] PHP Notice:  Undefined index: language_skills in /home/rhscom/of-w.com/candidates/index.php on line 58
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'date' in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'FIO' in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'city' in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'age' in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'positions' in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'langsEN' in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'langsDE' in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'passport' in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'phone' in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'email' in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'photo' in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'websait' in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:48:14 UTC] PHP Warning:  Illegal string offset 'description' in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 51
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 53
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: FIO in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: city in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: age in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: positions in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: langsEN in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: langsDE in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: passport in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: phone in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: email in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: photo in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: websait in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:48:14 UTC] PHP Notice:  Undefined index: description in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'date' in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'FIO' in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'city' in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'age' in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'positions' in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'langsEN' in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'langsDE' in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'passport' in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'phone' in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'email' in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'photo' in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'websait' in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'description' in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 51
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 53
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'date' in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'FIO' in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'city' in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'age' in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'positions' in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'langsEN' in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'langsDE' in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'passport' in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'phone' in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'email' in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'photo' in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'websait' in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:08 UTC] PHP Warning:  Illegal string offset 'description' in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 51
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 53
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: FIO in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: city in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: age in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: positions in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: langsEN in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: langsDE in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: passport in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: phone in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: email in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: photo in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: websait in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:08 UTC] PHP Notice:  Undefined index: description in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'date' in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'FIO' in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'city' in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'age' in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'positions' in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'langsEN' in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'langsDE' in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'passport' in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'phone' in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'email' in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'photo' in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'websait' in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 51
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 53
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'status_id' in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'date' in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'FIO' in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'city' in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'age' in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'positions' in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'langsEN' in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'langsDE' in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'passport' in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'experience' in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'phone' in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'email' in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'photo' in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'websait' in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/rhscom/of-w.com/candidates/index.php on line 92
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 49
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 51
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 53
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: status_id in /home/rhscom/of-w.com/candidates/index.php on line 59
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/index.php on line 60
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: FIO in /home/rhscom/of-w.com/candidates/index.php on line 61
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: city in /home/rhscom/of-w.com/candidates/index.php on line 62
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: age in /home/rhscom/of-w.com/candidates/index.php on line 63
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: positions in /home/rhscom/of-w.com/candidates/index.php on line 64
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: langsEN in /home/rhscom/of-w.com/candidates/index.php on line 65
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: langsDE in /home/rhscom/of-w.com/candidates/index.php on line 66
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: passport in /home/rhscom/of-w.com/candidates/index.php on line 67
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 69
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: experience in /home/rhscom/of-w.com/candidates/index.php on line 73
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: phone in /home/rhscom/of-w.com/candidates/index.php on line 76
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: email in /home/rhscom/of-w.com/candidates/index.php on line 77
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: photo in /home/rhscom/of-w.com/candidates/index.php on line 78
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: websait in /home/rhscom/of-w.com/candidates/index.php on line 79
+[18-Apr-2019 11:51:51 UTC] PHP Notice:  Undefined index: description in /home/rhscom/of-w.com/candidates/index.php on line 92
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[23-Apr-2019 05:50:15 UTC] PHP Warning:  trim() expects at least 1 parameter, 0 given in /home/rhscom/of-w.com/candidates/index.php on line 88
+[26-Apr-2019 11:03:32 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_statistics/v2): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/rhscom/of-w.com/candidates/statistics.php on line 9
+[26-Apr-2019 11:03:51 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_statistics/v2): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/rhscom/of-w.com/candidates/statistics.php on line 9
+[26-Apr-2019 11:05:11 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_statistics/v2): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/rhscom/of-w.com/candidates/statistics.php on line 9
+[26-Apr-2019 12:37:41 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_statistics/v2): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/rhscom/of-w.com/candidates/statistics.php on line 9
+[30-Apr-2019 07:06:00 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 16
+[30-Apr-2019 07:53:27 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 07:54:06 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 07:54:44 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 07:55:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 07:55:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 07:55:25 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 26
+[30-Apr-2019 08:37:07 UTC] PHP Warning:  Creating default object from empty value in /home/rhscom/of-w.com/candidates/statistics.php on line 40
+[30-Apr-2019 08:37:07 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:37:07 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:38:02 UTC] PHP Notice:  Undefined index: dateStatistic in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:38:02 UTC] PHP Notice:  Undefined index: dateStatistic in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:44:37 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:44:37 UTC] PHP Notice:  Array to string conversion in /home/rhscom/of-w.com/candidates/statistics.php on line 41
+[30-Apr-2019 08:51:18 UTC] PHP Notice:  Undefined offset: 0 in /home/rhscom/of-w.com/candidates/statistics.php on line 15
+[30-Apr-2019 08:54:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 49
+[30-Apr-2019 08:54:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 49
+[30-Apr-2019 08:54:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 49
+[30-Apr-2019 08:55:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 50
+[30-Apr-2019 08:55:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 50
+[30-Apr-2019 08:56:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 51
+[30-Apr-2019 08:56:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 51
+[30-Apr-2019 08:59:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 52
+[30-Apr-2019 09:01:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 48
+[30-Apr-2019 09:03:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 51
+[30-Apr-2019 10:05:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rhscom/of-w.com/candidates/statistics.php on line 51
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: date in /home/rhscom/of-w.com/candidates/statistics.php on line 69
+[30-Apr-2019 10:18:03 UTC] PHP Notice:  Undefined index: count in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:18:45 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[30-Apr-2019 10:19:03 UTC] PHP Notice:  Undefined index: cityCount in /home/rhscom/of-w.com/candidates/statistics.php on line 70
+[10-May-2019 09:33:17 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 31
+[10-May-2019 09:52:22 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 32
+[10-May-2019 10:02:41 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:03:06 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:03:39 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:06:27 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:06:53 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:08:04 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 42
+[10-May-2019 10:08:21 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 43
+[10-May-2019 10:09:11 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 44
+[10-May-2019 10:09:44 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 44
+[10-May-2019 10:09:58 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 44
+[10-May-2019 10:10:55 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 45
+[10-May-2019 10:11:13 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 45
+[10-May-2019 10:12:41 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 37
+[10-May-2019 10:13:44 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 37
+[10-May-2019 10:14:07 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 37
+[10-May-2019 10:14:56 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 37
+[10-May-2019 10:15:41 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 37
+[10-May-2019 10:36:06 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 10:36:43 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:16:30 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:17:29 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:18:18 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:18:41 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:21:39 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:23:54 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:24:49 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:26:10 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:26:21 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:27:43 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:28:53 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 11:31:19 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 12:23:11 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
+[10-May-2019 12:27:18 UTC] PHP Warning:  file_get_contents(https://of-w.com/wp-json/reset_get_status_candidate_harkov/v2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/rhscom/of-w.com/candidates_harkov/index.php on line 39
