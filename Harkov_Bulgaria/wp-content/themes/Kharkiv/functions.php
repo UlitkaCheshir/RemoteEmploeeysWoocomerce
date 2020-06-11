@@ -1,6 +1,8 @@
 <?php
 
 
+
+
 function reset_add_candidates()
 {
     register_rest_route(

@@ -48,7 +48,7 @@
             <td>Ф.И.О</td>
             <td>Номер телефона</td>
             <td><label style="width: 300px">Email</label></td>
-            <td>Ссылка на соц. сеть</td>
+            <td>Ссылка на резюме</td>
             <td><label for="prof-select">Статус</label></td>
             <td>Комментарий</td>
         </tr>
